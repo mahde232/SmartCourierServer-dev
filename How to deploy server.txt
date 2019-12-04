@@ -1,0 +1,5 @@
+How to expose the server private ip and port;
+1. Open CMD under the SmartCourrierSever directory
+2. Run ngrok http 8080 in cmd.
+3. In the opened cmd copy the URL in the line that start with 'Forwarding' to USER.ip in the Android Application.
+4. Run the server and the Android Application.

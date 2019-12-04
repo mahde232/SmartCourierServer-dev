@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SmartCourierServer
+Bundle-SymbolicName: SmartCourierServer
+Bundle-Version: 1.0.0.qualifier
+Export-Package: .,
+ com.smartcourier,
+ com.smartcourier.beans,
+ com.smartcourier.config,
+ com.smartcourier.controllers,
+ com.smartcourier.dao,
+ com.smartcourier.model
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
